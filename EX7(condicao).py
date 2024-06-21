@@ -1,5 +1,5 @@
 user = 'Silas_Khalek'
-password = 'Jfkplm88*'
+password = 'cltdtw86*3*'
 
 login = input('Digite seu usuário: ')
 senha = input('Senha: ')
